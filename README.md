@@ -1,6 +1,6 @@
 # Basic Shopping Cart
 
-
+<p align="center"><img width="400" src="Images/BasicShoppingCart.png" alt="A white background with a list that contains an apple, orange, beans, and cabbage. If you click Add to Cart the items will be listed out in a second column on the right and then the amount at the check out grows accordingly. If you click ReStock Products, the page will be re-set."> </p><br>
 
 # About
 
