@@ -6,7 +6,7 @@ const products = [
     {name: "Cabbage", country: "USA", cost: 1, instock: 8},
 ];
 
-const photos = ["images/apple.png", "images/orange.png", "images/beans.png", "images/cabbage.png"];
+const photos = ["Images/apple.png", "Images/orange.png", "Images/beans.png", "Images/cabbage.png"];
 
 
 const ShoppingCart = (props) =>
