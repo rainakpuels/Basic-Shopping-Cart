@@ -15,9 +15,9 @@ Download the files.
 Run the "index.html" file in your broswer.
 
 # Dependencies
-React
-Babel
-Strapi
+React <br>
+Babel <br>
+Strapi <br>
 
 # Roadmap of Future Improvemenets
 This shopping cart could be made much more aesthetically pleasing, but right now it exists just to show functionality! 
